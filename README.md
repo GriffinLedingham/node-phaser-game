@@ -8,3 +8,9 @@ Running:
   node server.js
 ```
 Will start the server, serving up the client directory over port 3000.
+
+Tiled can be found here:
+
+```
+  http://www.mapeditor.org/
+```
